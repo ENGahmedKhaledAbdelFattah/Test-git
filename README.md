@@ -4,4 +4,6 @@ Test For Now
 
 ## Subheader
 
-WEE
+WEE 
+
+1- Open index.html in your browser.
